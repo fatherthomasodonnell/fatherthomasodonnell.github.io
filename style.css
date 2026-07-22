@@ -1,0 +1,26 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background: #fff;
+  color: #000;
+  max-width: 34rem;
+  margin: 0 auto;
+  padding: 3rem 1.25rem 5rem;
+  line-height: 1.5;
+  font-size: 1.2rem;
+}
+
+header { margin-bottom: 3rem; }
+header > a { color: #000; text-decoration: none; font-weight: bold; }
+nav a { margin-right: 1rem; }
+
+h1 { font-size: 1.4rem; font-weight: bold; }
+
+ul.posts { list-style: none; padding: 0; }
+ul.posts li { margin-bottom: 0.8rem; }
+
+.date { color: #555; font-size: 0.9rem; display: block; }
+article .date { margin-bottom: 2rem; }
+
+blockquote { margin: 1.5rem 0 1.5rem 1.25rem; font-style: italic; }
+
+footer { margin-top: 4rem; font-size: 0.9rem; color: #555; }
