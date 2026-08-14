@@ -1,2 +1,2 @@
 # fatherthomasodonnell.github.io
-This would be the place to add notes about how to work the website. It's not that hard, though.
+This is a very simple website, mainly in HTML (with a style sheet in CSS) where I can post things to share with others.
