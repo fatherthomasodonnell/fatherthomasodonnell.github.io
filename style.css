@@ -24,3 +24,26 @@ article .date { margin-bottom: 2rem; }
 blockquote { margin: 1.5rem 0 1.5rem 1.25rem; font-style: italic; }
 
 footer { margin-top: 4rem; font-size: 0.9rem; color: #555; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 1rem;
+}
+
+th, td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  font-weight: bold;
+  border-bottom: 2px solid #000;
+}
+
+tr:hover {
+  background-color: #fafafa;
+}
